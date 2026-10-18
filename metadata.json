@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft VPS Jagoanhosting Suite (Pterodactyl)",
+  "description": "Impor repositori lengkap & generator ZIP instan (<1MB) khusus VPS Jagoanhosting Pterodactyl Panel dengan script auto-download manual untuk plugin dan Paper/Purpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
